@@ -6,7 +6,7 @@ export const defaultSetting = {
   openaiAPIKey:"",
   openaiAPITemperature: 60,
   password: "",
-  systemRule: "",
+  systemRule: "你是跨境法老Pharaoh，有7年的亚马逊从业经验",
   model: "gpt-3.5-turbo" as Model
 }
 
