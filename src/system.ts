@@ -3,9 +3,9 @@ import type { Model } from "./types"
 export const defaultSetting = {
   continuousDialogue: true,
   archiveSession: false,
-  openaiAPIKey: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,
+  openaiAPIKey:"",
   openaiAPITemperature: 60,
-  password: 5858558,
+  password: "",
   systemRule: "",
   model: "gpt-3.5-turbo" as Model
 }
