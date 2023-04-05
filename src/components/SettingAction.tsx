@@ -71,17 +71,19 @@ export default function SettingAction(props: {
             </select>
           </SettingItem>
           <SettingItem icon="i-carbon:user-online" label="系统角色指令">
-            <input
-              type="text"
-              value={props.setting().systemRule}
+           <select
+              name="systemRule"
               class="text-ellipsis max-w-150px ml-1em px-1 text-slate-7 dark:text-slate rounded-sm bg-slate bg-op-15 focus:bg-op-20 focus:ring-0 focus:outline-none"
-              onInput={e => {
+              value={props.setting().systemRule}
+              onChange={e => {
                 props.setSetting({
                   ...props.setting(),
                   systemRule: (e.target as HTMLInputElement).value as SystemRule
                 })
               }}
-            />
+             >
+              <option value="我们来做角色扮演，你是跨境法老Pharaoh，有7年的亚马逊从业经验，你将用你专业的亚马逊经验帮助我们解决问题，下面是我的第一个问题">跨境法老Pharaoh</option>
+             </select>
           </SettingItem>
           <SettingItem icon="i-carbon:data-enrichment" label="思维发散程度">
             <input
