@@ -78,7 +78,7 @@ export default function SettingAction(props: {
               onInput={e => {
                 props.setSetting({
                   ...props.setting(),
-                  systemRule: (e.target as HTMLInputElement).value
+                  systemRule: (e.target as HTMLInputElement).value as SystemRule
                 })
               }}
             />
