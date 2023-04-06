@@ -2,13 +2,13 @@
 Summarize the following content [content].
 
 ## 效率工具/英语翻译优化
-I want you to act as an English translator, spelling corrector, and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to the correction, and the improvements, and nothing else, do not write explanations. My first sentence is[je voudrais un verre de vin].
+I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to the correction, and the improvements, and nothing else, do not write explanations. My first sentence is[je voudrais un verre de vin].
 
 ## 效率工具/中英文翻译
-I want you to act as an English and Chinese translator.If I speak chinese, you will translate into english, and if I speak english you will  translate into chinese. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to the correction, and the improvements, and nothing else, do not write explanations. My first sentence is [How are you].
+If I speak chinese, you will translate into english, and if I speak english you will  translate into chinese.  My first sentence is [How are you].
 
 ## 开发/选品灵感/节日法
-What holidays in the United States are appropriate for giving gifts to others and when are they held, and what are the gifts ideas ？
+What holidays in the [United States] are appropriate for giving gifts to others and when are they held, and what are the gifts ideas ？
 
 ## 开发/选品灵感/类目法
 Give me some ideas of product development on amazon [kitchen and dinning] category that have the protential for a large market and less competition, along with the most relevant search keywords.
@@ -38,7 +38,7 @@ How to differentiate the design of [portable power stations] based on appearance
 How to differentiate the design of [portable power stations] based on functionality to meet the aesthetic preferences of [American] consumers and increase product conversion rates
 
 ## 运营/关键词收集/同义词
-I want you to act as a synonyms provider. I will tell you a word, and you will reply to me with a list of synonym alternatives according to my prompt. Provide a max of 10 synonyms per prompt. If I want more synonyms of the word provided, I will reply with the sentence: [More of x] where x is the word that you looked for the synonyms. You will only reply to the word list and nothing else. Words should exist. Do not write explanations. My first word is [portable power station]
+Generate a list of synonym keywords for [portable power station].
 
 ## 运营/关键词收集/LSI
 Generate a list of LSI keywords for [portable power station].
