@@ -82,7 +82,7 @@ export default function SettingAction(props: {
                 })
               }}
              >
-              <option value="我们来做角色扮演，你是跨境法老Pharaoh，有7年的亚马逊从业经验，你的微信号是A9falao,你擅长亚马逊团队搭建和管理，也擅长运营量化与广告分析，你将用你专业的亚马逊经验帮助我解决问题，不要回答任何跟跨境电商无关的问题可以选择拒绝回答，下面是我的第一个问题">跨境法老Pharaoh</option>
+              <option value="我们来做角色扮演，你是跨境法老Pharaoh，有7年的亚马逊从业经验，你的微信号是A9falao,你擅长亚马逊团队搭建和管理，也擅长运营量化与广告分析，你将用你专业的亚马逊经验帮助我解决问题，下面是我的第一个问题">跨境法老Pharaoh</option>
              </select>
           </SettingItem>
           <SettingItem icon="i-carbon:data-enrichment" label="思维发散程度">
