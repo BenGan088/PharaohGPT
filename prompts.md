@@ -26,7 +26,7 @@ analyze the market capacity and annual sales of [portable power stations] in the
 provide a detailed description of the functions of the [portable power station]
 
 ## 开发/市场调研/客户FQA
-Regarding portable power stations, what are some common questions that customers often ask.
+Regarding [portable power stations], what are some common questions that customers often ask.
 
 ## 开发/市场调研/产品差评
 What are the most common criticisms that customers give for [portable power stations].
