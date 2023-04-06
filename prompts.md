@@ -77,7 +77,7 @@ summarize the negtive reviews, group similar reviews together, record their freq
 Write an email to this customer that we are sorry for their experience and we would like to give them a refund. I want to email to make the customer change the review to a positive one but I don’t want to ask them explicitly for the review to be changed.
 
 ## ChatGPT+产品开发/广告分析/红人开发/库存分析/品牌营销/图片设计/竞品量化/文案与SEO/Excel与VB/目标管理/团队培训
-更多高能亚马逊学习资料、Prompts、GPT、AI交流学习找跨境法老Pharaoh VX：A9falao
+更多高能亚马逊学习资料、Prompts、GPT、AI交流学习@跨境法老Pharaoh VX：A9falao
 
 
 
