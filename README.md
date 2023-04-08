@@ -1,7 +1,4 @@
-# ChatGPT-Vercel
 
-![](assets/preview-light.png#gh-light-mode-only)
-![](assets/preview-dark.png#gh-dark-mode-only)
 
 > 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发。
 
